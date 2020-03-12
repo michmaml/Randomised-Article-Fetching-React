@@ -1,16 +1,3 @@
 {
-  "ranking": [
-    {
-      "id": "2020-03-12T10:32:00.397Z",
-      "rankedArticles": {
-        "rankedArticles": {
-          "art1": " 3⭐",
-          "art2": " 1⭐",
-          "art3": " 4⭐",
-          "art4": " 3⭐",
-          "art5": " 3⭐"
-        }
-      }
-    }
-  ]
+  "ranking": []
 }
