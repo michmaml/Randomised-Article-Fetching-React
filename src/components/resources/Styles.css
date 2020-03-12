@@ -1,0 +1,31 @@
+/**
+ * Michal J Sekulski, 2020
+ */
+
+
+ /*   Additional styles(apart from the ones provided by semantic-ui)    */
+
+
+img {
+  width: 448px;
+  height: 294px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+}
+
+.fadeout {
+  animation: fadeout 1.4s forwards;
+}
+
+@keyframes fadeout {
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.cl {
+  text-align: center;
+}
